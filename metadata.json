@@ -1,0 +1,6 @@
+{
+  "name": "NutriVision AI – Food Nutrition & Calorie Analyzer",
+  "description": "AI-powered food analysis web application that identifies food items from photos, estimates portions, and calculates nutritional values and calorie breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
